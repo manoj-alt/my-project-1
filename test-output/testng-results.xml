@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="83" started-at="2019-09-25T16:55:53Z" finished-at="2019-09-25T16:55:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="83" started-at="2019-09-25T16:55:53Z" finished-at="2019-09-25T16:55:53Z">
+      <class name="testNGexample.TC_TestNG">
+        <test-method status="PASS" signature="Addemp()[pri:0, instance:testNGexample.TC_TestNG@58651fd0]" name="Addemp" duration-ms="31" started-at="2019-09-25T22:25:53Z" finished-at="2019-09-25T22:25:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addemp -->
+        <test-method status="PASS" signature="Delemp()[pri:0, instance:testNGexample.TC_TestNG@58651fd0]" name="Delemp" duration-ms="3" started-at="2019-09-25T22:25:53Z" finished-at="2019-09-25T22:25:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Delemp -->
+        <test-method status="PASS" signature="login()[pri:0, instance:testNGexample.TC_TestNG@58651fd0]" name="login" duration-ms="2" started-at="2019-09-25T22:25:53Z" finished-at="2019-09-25T22:25:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:testNGexample.TC_TestNG@58651fd0]" name="logout" duration-ms="2" started-at="2019-09-25T22:25:53Z" finished-at="2019-09-25T22:25:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- testNGexample.TC_TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
